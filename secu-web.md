@@ -14,7 +14,7 @@ quand vous allez sur un site et qu'on vous demande d'entrer des informations sen
 
 ça a l'air con comme ça mais faut toujours vérifier qu'**on est bien sur le site qu'on croit**. Genre [https://appple.com](https://appple.com) ou [facebookk.com](facebookk.com) ou [le-monde.com](le-monde.com) ça marche pas et faut absolument pas faire confiance. 
 
-Ou même [http://storeireq485.itunesoffer59.co.uk/app/secure/index.php?em=jeanne@mail.fr](http://storeireq485.itunesoffer59.co.uk/app/secure/index.php?em=jeanne@mail.fr) dans le cas de Jeanne. y'a marqué store, itunes, secure et tout mais c'est tout pourri et c'est même pas en https.
+Ou même [http://storeireq485.itunesoffer59.co.uk/app/secure/index.php?em=jeanne@mail.fr](http://storeireq485.itunesoffer59.co.uk/app/secure/index.php?em=jeanne@mail.fr) : y'a marqué store, itunes, secure et tout mais c'est tout pourri et c'est même pas en https.
 
 A fortiori sur les sites des **banques** pour les paiements en ligne. 
 
