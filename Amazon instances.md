@@ -20,7 +20,13 @@ default user on Amazon linux `ec2-user`
 
 #### `sudo: pip: command not found`
 
-the path to pip (usually `/usr/local/bin`) is not in the sudo path by defalt so add it : `cd /etc/` puis edit (vi ou nano) `sudo nano sudoers` et ajouter `/usr/local/bin` au `secure_path` de la  la ligne `Defaults    secure_path = /sbin:/bin:/usr/sbin:/usr/bin` -> `Defaults    secure_path = /sbin:/bin:/usr/sbin:/usr/bin:/usr/local/bin`
+the path to pip (usually `/usr/local/bin`) is not in the sudo path by defalt so add it : `cd /etc/` then edit (vi or nano) `sudo nano sudoers` and add `/usr/local/bin` to the `secure_path` at line `Defaults    secure_path = /sbin:/bin:/usr/sbin:/usr/bin` -> `Defaults    secure_path = /sbin:/bin:/usr/sbin:/usr/bin:/usr/local/bin`
+
+## Anaconda
+
+The path to anaconda may not have been set by the installer -> modify .bash_profile to add `anaconda3/bin/` 
+
+For instance now my .bash_profile has this line `PATH=$PATH:$HOME/.local/bin:$HOME/bin:$HOME/anaconda3/bin`
 
 ## Copy 
 
