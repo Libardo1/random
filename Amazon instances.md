@@ -2,7 +2,7 @@
 
 ## Connect via ssh
 
-default user on Amazon linux `ec2-user
+default user on Amazon linux `ec2-user`
 
 `ssh -i my_1.pem user@ec2-ip.dns`
 
