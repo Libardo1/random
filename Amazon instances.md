@@ -2,7 +2,9 @@
 
 ## Connect via ssh
 
-`ssh -i my_1.pem ubuntu@ec2-ip.dns`
+default user on Amazon linux `ec2-user
+
+`ssh -i my_1.pem user@ec2-ip.dns`
 
 ## Pip : `locale.Error: unsupported locale setting`
 
